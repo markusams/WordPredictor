@@ -24,3 +24,9 @@ dfm.generate <- function(vec, n){
     dfm
 }
 
+##Notes
+##mydfm <- dfm(corpus, ngram=1, remove_punct = TRUE,tolower=TRUE)
+##mydfm <- dfm_trim(mydfm, min_docfreq = 3)
+##y <- data.frame(cbind(words=names(topfeatures(mydfm, 1000000)),count=topfeatures(mydfm, 1000000)), row.names = c())
+##write.csv(y,"de_1gram.csv")
+
