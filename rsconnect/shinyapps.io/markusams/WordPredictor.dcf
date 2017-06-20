@@ -3,9 +3,9 @@ title: WordPredictor
 account: markusams
 server: shinyapps.io
 appId: 185410
-bundleId: 869533
+bundleId: 875894
 url: https://markusams.shinyapps.io/WordPredictor/
-when: 1497605077.06255
+when: 1497992968.89146
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: readme.md|reports/.Rhistory|reports/App.PNG|reports/Blogs5Percent.txt|reports/BlogsFrequency.txt|reports/mainFeatures.PNG|reports/News5Percent.txt|reports/NewsFrequency.txt|reports/overview.txt|reports/Report.html|reports/Report.rmd|reports/stupidbackoff.png|reports/StupidBackoffBenchmark.PNG|reports/top10_4grams.csv|reports/top10_5grams.csv|reports/top10bigrams.csv|reports/top10trigrams.csv|reports/top10unigrams.csv|reports/Twitter5Percent.txt|reports/TwitterFrequency.txt|reports/WordPredictorPresentation.html|reports/WordPredictorPresentation.Rmd|reports/rsconnect/documents/Report.rmd/rpubs.com/rpubs/Document.dcf|reports/rsconnect/documents/WordPredictorPresentation.Rmd/rpubs.com/rpubs/Document.dcf|scripts/createOverview.R|scripts/dfmGenerate.R|scripts/generateSamples.R|scripts/ngramTokenizer.R|scripts/prepareWorkspace.R|scripts/splitstrings.R|scripts/tdmGenerate.R|scripts/WordFrequencies.R
